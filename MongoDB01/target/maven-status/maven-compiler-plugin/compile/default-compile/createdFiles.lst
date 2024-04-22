@@ -1,0 +1,5 @@
+com\laboratorio\mongodb01\repositorio\ConexionMongoDB.class
+com\laboratorio\mongodb01\MongoDB01.class
+com\laboratorio\mongodb01\utiles\ConfigFile.class
+com\laboratorio\mongodb01\entidades\Usuario.class
+com\laboratorio\mongodb01\entidades\Articulo.class
