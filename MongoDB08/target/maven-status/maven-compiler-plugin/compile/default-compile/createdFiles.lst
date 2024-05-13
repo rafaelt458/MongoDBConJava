@@ -1,0 +1,12 @@
+com\laboratorio\mongodb08\bean\MongoBean.class
+com\laboratorio\mongodb08\modelo\PersonaRequest.class
+com\laboratorio\mongodb08\resources\JavaEE8Resource.class
+com\laboratorio\mongodb08\monitor\MonitorComandos.class
+com\laboratorio\mongodb08\monitor\MonitorPool.class
+com\laboratorio\mongodb08\controlador\PersonasController.class
+com\laboratorio\mongodb08\monitor\MonitorCluster.class
+com\laboratorio\mongodb08\JAXRSConfiguration.class
+com\laboratorio\mongodb08\modelo\Persona.class
+com\laboratorio\mongodb08\utiles\ConexionMongoDB.class
+com\laboratorio\mongodb08\utiles\ConfigFile.class
+com\laboratorio\mongodb08\persistencia\PersonaDB.class
